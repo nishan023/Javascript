@@ -1,0 +1,48 @@
+###Variables
+var  global scope 
+let  local scope
+const   constant value like pi=3.14
+
+************Data Types****************
+1.string
+let a=""; -->normal 
+let b=new String("Nishan"); -->object /wrapper object
+number ma pani double quote use vayo bhane string hunxa
+
+2.number
+3.bigint 
+yo 2 oatai same nai ho tara bigint large number haru declare garna use garinax.
+yesko precision number bhanda ramro hunxa
+
+4.boolean
+true or false
+
+5.undefine
+value declare nagarako
+
+6.null
+empty xa bhane null
+
+7.symbol
+value same vaye pani varible unique banayuna symbol use garne
+
+
+*****template litrals***********
+syntax:
+`${expression}`  back kick 
+
+async defer
+--> yedi euta js file aarko ma dependent xa bhane defer use garne like function natra  async
+
+===  --->value and data type check garxa
+
+this---> yei object ko value ho bhanna lai use garinxa  /instance
+
+use strict
+Object.freeze(
+    {
+
+
+
+    }
+)
