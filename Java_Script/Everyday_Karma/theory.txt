@@ -3,7 +3,7 @@ var  global scope
 let  local scope
 const   constant value like pi=3.14
 
-************Data Types****************
+************Data Types****************bb nn ss u
 1.string
 let a=""; -->normal 
 let b=new String("Nishan"); -->object /wrapper object
