@@ -1,0 +1,21 @@
+loops
+****for of loop****
+-->>The for-of loop in JavaScript is used to iterate over the values of an iterable object, such as an array or a string.
+syntax:
+let array = [1, 2, 3, 4, 5];
+for (let value of array) {
+ console.log(value); // This will output each number in the array on a new line
+}
+
+****for in loop****
+    -->return key of object
+    let student={
+    name:"nissan",
+    age:0,
+    marks:0
+}
+for(let val in student)
+{
+   console.log(val);
+}
+    
